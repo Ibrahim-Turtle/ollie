@@ -1,0 +1,262 @@
+
+.topnav {
+  background-color: #393535;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #666666;
+  color: white;
+}
+
+
+
+
+.Karetschildpad {
+  width: 250px;
+  height: 310px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+}
+.Karetschildpad {
+  position: relative;
+  top: 12px; 
+  left: 255px; 
+}
+
+
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 10px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+
+
+
+.Lederschildpad {
+  width: 250px;
+  height: 310px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+}
+.Lederschildpad {
+  position: relative;
+  top: -302px; 
+  left: -2px; 
+}
+
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 10px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+
+
+
+.Dikkopschildpad  {
+  width: 250px;
+  height: 350px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+}
+.Dikkopschildpad {
+  position: relative;
+  top: -302px; 
+  left: -2px; 
+}
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 5px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+
+
+.Bijtschildpad {
+  width: 250px;
+  height: 350px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+   
+}
+.Bijtschildpad {
+  position: relative;
+  top: -656px; 
+  left: 255px; 
+}
+
+
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 10px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+
+
+
+.Soepschildpad {
+  width: 250px;
+  height: 310px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  
+}
+.Soepschildpad {
+ position: relative;
+ top: -1324px;
+ left: 513px;
+}
+
+
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 10px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+
+
+
+.Griekse  {
+  width: 250px;
+  height: 350px;
+  background-color: #f3f3f3;
+  border: 2px solid #636363;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.Griekse  {
+ position: relative;
+ top: -1324px;
+ left: 513px;
+}
+
+
+.Schildpad-image {
+  flex: 1;
+}
+
+.Schildpad-info {
+  padding: 10px;
+}
+
+.Schildpad-info h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.Schildpad-info p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+style{
+  font-family: Arial, sans-serif;
+}
+
